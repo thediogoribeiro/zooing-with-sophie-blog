@@ -1,0 +1,4 @@
+export const EnvironmentVariables = {
+  supabaseUrl: 'https://wyxbhffemcwdbsoouqkd.supabase.co',
+  supabaseKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind5eGJoZmZlbWN3ZGJzb291cWtkIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTI5MTgwOTcsImV4cCI6MjAwODQ5NDA5N30.MM2jCql0nme71rQduZzCOcrARHb0QGCFEEtohZL1UD8'
+}
